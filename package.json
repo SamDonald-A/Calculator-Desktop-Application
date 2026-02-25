@@ -1,0 +1,25 @@
+{
+  "name": "sam-calculator",
+  "version": "1.0.0",
+  "description": "Simple Calculator Desktop App",
+  "main": "main.js",
+  "author": "Sam Donald",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^40.6.1",
+    "electron-builder": "^26.8.1"
+  },
+  "build": {
+    "appId": "com.sam.calculator",
+    "productName": "Sam Calculator",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "nsis"
+    }
+  }
+}
