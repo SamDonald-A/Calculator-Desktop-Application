@@ -1,5 +1,5 @@
 # Calculator-Desktop-Application
-Creating a Simple calculator application for the Desktop
+Creating a Simple calculator application for the Desktop using NodeJs
 ---
 
 ## First Things First
