@@ -204,6 +204,8 @@ if not - go to >> privacy & security >> seach dev mode >> enable
     npm run build
 
 # Finally the dist folder will be created - there we can see the .exe file
+Install the app and test it
+
 
 <img width="396" height="585" alt="image" src="https://github.com/user-attachments/assets/93a18e83-cb67-45ad-bb22-a65cdb6b8342" />
 
