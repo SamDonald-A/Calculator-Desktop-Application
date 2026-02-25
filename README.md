@@ -6,7 +6,7 @@ Creating a Simple calculator application for the Desktop
 Make sure you have *Node* Installed and *npm* installed
 Create a folder and open it in VS Code Editor
   
-    # Verify Instalation in VS Code Terminal
+    # Verify Installation in VS Code Terminal
     node -v
     npm -v
 
